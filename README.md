@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
+- 👨‍💻 All of my projects are available at [https://github.com/msophiasantos/mini-projects](https://github.com/msophiasantos/mini-projects)
+
 - 📫 How to reach me **monicasophia75@gmail.com**
+
+- ⚡ Fun fact **I like to go hiking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
