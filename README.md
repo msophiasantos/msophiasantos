@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @msophiasantos
-- 👀 I’m interested in coding, hiking, and going to the gym!
-- 🌱 I’m currently learning Web Development particularly HTML, CSS, Javascript and React.
-- 💞️ I’m looking to collaborate with other aspiring developers to share ideas.
+<h1 align="center">Hi 👋, I'm Monica Sophia Santos</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<!---
-msophiasantos/msophiasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msophiasantos&label=Profile%20views&color=0e75b6&style=flat" alt="msophiasantos" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msophiasantos" alt="msophiasantos" /></a> </p>
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 📫 How to reach me **monicasophia75@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/monicasophiasantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monicasophiasantos" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msophiasantos&show_icons=true&locale=en&layout=compact" alt="msophiasantos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msophiasantos&show_icons=true&locale=en" alt="msophiasantos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msophiasantos&" alt="msophiasantos" /></p>
