@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/msophiasantos/mini-projects](https://github.com/msophiasantos/mini-projects)
 
 - 📫 How to reach me **monicasophia75@gmail.com**
 
@@ -22,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msophiasantos&show_icons=true&locale=en" alt="msophiasantos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msophiasantos&" alt="msophiasantos" /></p>
+
