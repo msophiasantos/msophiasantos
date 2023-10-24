@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monica Sophia Santos</h1>
 <h3 align="center">A passionate frontend developer actively looking for an entry-level job!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msophiasantos&label=Profile%20views&color=0e75b6&style=flat" alt="msophiasantos" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
-
+- 👨‍💻 You can find my projects here! **[Projects](https://github.com/msophiasantos/projects/tree/main)**
 
 - 📫 How to reach me **monicasophia75@gmail.com**
 
@@ -22,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msophiasantos&show_icons=true&locale=en" alt="msophiasantos" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msophiasantos&label=Profile%20views&color=0e75b6&style=flat" alt="msophiasantos" /> </p>
