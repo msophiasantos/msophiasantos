@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monica Sophia Santos</h1>
-<h3 align="center">A passionate frontend developer actively looking for an entry-level job!</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 - 🌱 I’m currently learning **ReactJS**
