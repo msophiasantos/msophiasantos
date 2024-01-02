@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **ReactJS**
-- 👨‍💻 You can find my projects here! **[Mini Projects](https://github.com/msophiasantos/projects/tree/main)**, **[freeCodeCamp Projects](https://github.com/msophiasantos/freecodecamp-responsive-web-design)**
+- 👨‍💻 You can find my projects here!
 
 - 📫 How to reach me **monicasophia75@gmail.com**
 
