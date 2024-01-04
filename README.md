@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monica Sophia Santos</h1>
+<h1 align="center">Hi 👋, I'm Monica Santos</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
